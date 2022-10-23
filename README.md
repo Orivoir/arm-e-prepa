@@ -25,7 +25,7 @@ pouvoir expliquer le métier que l’on veut faire et pouvoir citer quelques ré
 ## Désavantages du soldat:
   - Le risque du métier. *Porter un uniforme c'est être une cible potentiel pour les ennemies de la France.*
   - L'éloignements de ces proches pour de parfois longues durée.
-  - L'exigence de l'armée envers la discretion de notre métier, envers nos proches.
+  - L'exigence de l'armée envers la discretion de notre métier.
 
 
 # Les activitées militaires
