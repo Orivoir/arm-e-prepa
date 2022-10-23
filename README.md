@@ -108,3 +108,22 @@ pouvoir expliquer le métier que l’on veut faire et pouvoir citer quelques ré
   - savoir si vous savez vous vendre, il veut savoir si vous avez confiance en vous.
   - voir si vous avez bien compris le job qui vous attend
   - voir si ce poste vous permettra de vous épanouir ou si vous venez à cet entretien *contraint et/où forcé*.
+
+# Quelques régiments
+
+## 7RMAT (Lyon)
+### SOUTENIR AU PLUS HAUT
+> Maintien en condition opérationnelle des matériels terrestres (véhicules, armements, optiques, transmissions...) des unités stationnées en région Auvergne-Rhône-Alpes. Le régiment assure également l'approvisionnement en rechanges et matériels complets au profit de 36 unités.
+Appartenant fièrement aux troupes de montagne, le 7e RMAT est spécialisé dans les actes de maintenance en haute montagne.
+
+## 6RMAT (Besançon)
+### SEU PACEM SEU BELLA GERO
+> Maintien en condition opérationnelle « mobilité terrestre »
+Cela concerne les engins blindés, véhicules légers, poids lourds, engins du génie (dispositif d’ouverture d’itinéraire), lance-roquette unitaire.
+Logistique / Supply chain
+Le régiment possède une expertise de gestion des stocks, d’entreposage des rechanges et de matériels complets, intégrant des savoir-faire spécifiques liés aux actions de transit
+
+## 48RTRANS (Issoire)
+### RELIER ET AINSI UNIR
+> L'appui général qui consiste en l’appui au commandement des opérations par tout type d’état-major : il s’agit alors de déployer et d’administrer les réseaux d’information et de commandement, à l’entraînement et en opération et assurer le soutien et la sûreté rapprochée des postes de commandement.
+L’appui direct qui consiste à renforcer les unités interarmes par des moyens spécifiques jusqu’au contact, quelles que soient les conditions tactiques.
