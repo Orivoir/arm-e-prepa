@@ -32,17 +32,17 @@ pouvoir expliquer le métier que l’on veut faire et pouvoir citer quelques ré
 
 ## Les missions OPINT/OPEX de l'armées française et leur rôles. (Héphaïstos, Barkhane, Sentinelle, Résilience...)
     
-  - Héphaïstos en quelque mots:
-        > Les conditions climatique en été demande une vigilance et des moyens de préventions contre les feux de forêt,
-        dans les zones méditerraéenne française.
-        Elle lutte aussi contre l'orpaillage illégal en Guyane et la protection du centre spatial guyannais.
-        L'opération engage des militaires, des militaire de la sécurité civiles, des sapeurs-pompiers et l'Office national des forêts.
-        Cette année l'opération couvre du 24 juin au 22 septembre impliquant 21 départements de la zone sud,
-        mobilisant une 50aine de militaires, 3 hélicoptères ainsi qu'une 20aine de véhicules
-  - Barkhane en quelque mots:
-      > Trop Compliqué *(voir le rapport de 248 pages publier par défense gouv qui couvrent le compte rendu de l'opération Barkhane, Serval et Epervier entre 2013 et 2021)*
-  - Résilience en quelque mots:
-      > Lancée le 25 mars 2020, l'opération résilience lutte contre la propagation de la COVID-19 via un soutien aux populations, un appui aux services publics (hopitaux notamment).
+- Héphaïstos en quelque mots:
+  > Les conditions climatique en été demande une vigilance et des moyens de préventions contre les feux de forêt,
+  dans les zones méditerraéenne française.
+  Elle lutte aussi contre l'orpaillage illégal en Guyane et la protection du centre spatial guyannais.
+  L'opération engage des militaires, des militaire de la sécurité civiles, des sapeurs-pompiers et l'Office national des forêts.
+  Cette année l'opération couvre du 24 juin au 22 septembre impliquant 21 départements de la zone sud,
+  mobilisant une 50aine de militaires, 3 hélicoptères ainsi qu'une 20aine de véhicules
+- Barkhane en quelque mots:
+  > Trop Compliqué *(voir le rapport de 248 pages publier par défense gouv qui couvrent le compte rendu de l'opération Barkhane, Serval et Epervier entre 2013 et 2021)*
+- Résilience en quelque mots:
+  > Lancée le 25 mars 2020, l'opération résilience lutte contre la propagation de la COVID-19 via un soutien aux populations, un appui aux services publics (hopitaux notamment).
       L'opération impliquent plus de 360 militaires du régiment médical (RMED) de La Valbonne pour 57 jours de mission par militaire engagé.
 
 # Les bases militaires
