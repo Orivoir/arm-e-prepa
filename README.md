@@ -44,6 +44,8 @@ pouvoir expliquer le métier que l’on veut faire et pouvoir citer quelques ré
 - Résilience en quelque mots:
   > Lancée le 25 mars 2020, l'opération résilience lutte contre la propagation de la COVID-19 via un soutien aux populations, un appui aux services publics (hopitaux notamment).
       L'opération impliquent plus de 360 militaires du régiment médical (RMED) de La Valbonne pour 57 jours de mission par militaire engagé.
+- Sentinelle
+> Lancée en janvier 2015, 10 000 soldats (dont 3000 en réserve) sont engagés sur le territoire national pour défendre et protéger les Français. 
 
 # Les bases militaires
 
