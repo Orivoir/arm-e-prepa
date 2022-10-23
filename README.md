@@ -15,12 +15,12 @@ pouvoir expliquer le métier que l’on veut faire et pouvoir citer quelques ré
 
 ## Avantages du soldat:
   - La stabilitée de l'emploi
-    - Le confort de vie:
-        - la prise en charge du logements, de la nourriture et des déplacements
-        - rémunérer durant la formation (CFIM)
-    - Les possibiliter d'évolution grades/postes
-    - Stages/Formations en interne
-    - La possibilité de reconversion dans le civil grâce au compétences/expérience acquises.
+  - Le confort de vie:
+    - la prise en charge du logements, de la nourriture et des déplacements
+    - rémunérer durant la formation (CFIM)
+  - Les possibiliter d'évolution grades/postes
+  - Stages/Formations en interne
+  - La possibilité de reconversion dans le civil grâce au compétences/expérience acquises.
 
 ## Désavantages du soldat:
   - Le risque du métier. *Porter un uniforme c'est être une cible potentiel pour les ennemies de la France.*
